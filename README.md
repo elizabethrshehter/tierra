@@ -1,3 +1,3 @@
-# Tierra
+# Tierra Resource Consultants
 
-Data Analysis File Repository for Tierra Consultants
+Data Analysis File Repository 
